@@ -28,7 +28,7 @@
 
 > **Senior AI Engineer** passionate about transforming ideas into intelligent solutions
 
-I'm **Md. Nabil Rahman Khan**, a Senior AI Engineer with expertise in **Machine Learning**, **Deep Learning**, **NLP**, and **Computer Vision**. I specialize in building end-to-end AI systems that solve real-world problems - from financial forecasting to voice-driven interfaces.
+I'm **Md. Nabil Rahman Khan**, a Senior AI Engineer with expertise in **Machine Learning**, **Deep Learning**, **NLP**, and **Computer Vision**. I specialize in building end-to-end AI systems that solve real-world problems, from financial forecasting to voice-driven agents.
 
 ```python
 class NabilRahmanKhan:
