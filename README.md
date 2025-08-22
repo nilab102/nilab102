@@ -1,7 +1,7 @@
 # Hi , I'm Nabil Rahman Khan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=Senior+AI+Engineer+%7C+ML+Specialist;Python+Expert+%7C+Deep+Learning+Researcher;RAG+Systems+%26+Voice+AI+Expert;Leading+Enterprise+AI+Solutions!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=Senior+AI+Engineer+%7C+ML+Specialist;Python+Expert+%7C+Deep+Learning+Researcher;RAG+Systems+%26+Voice+Agnets+Expert" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -41,7 +41,7 @@ class NabilRahmanKhan:
             "Machine Learning", "Deep Learning", "NLP", 
             "Computer Vision", "MLOps", "Cloud AI"
         ]
-        self.current_focus = "RAG Systems & Voice AI"
+        self.current_focus = "RAG Systems & Voice Agents"
         
     def say_hi(self):
         return "Let's build something amazing together! 🚀"
@@ -265,50 +265,6 @@ print(nabil.say_hi())
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilab102&theme=react-dark&bg_color=0D1117&line=58A6FF&point=1F6FEB&area_color=0D1117&area=true&hide_border=true&custom_title=Nabil's%20Contribution%20Graph"/>
 </div>
-
----
-
-## 🚀 Notable Open Source Projects
-
-### 📱 **Application Portfolio**
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>📰 NewsHunt24-7</h3>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nilab102&repo=NewsHunt24-7&theme=radical&hide_border=true&bg_color=0D1117" />
-      <br>
-      <strong>Android News App</strong><br>
-      Java • Firebase • Real-time Updates
-    </td>
-    <td align="center" width="50%">
-      <h3>🏥 Hospital Management System</h3>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nilab102&repo=Hospital-Managment-System-PL-SQL&theme=radical&hide_border=true&bg_color=0D1117" />
-      <br>
-      <strong>Enterprise System</strong><br>
-      PL/SQL • Distributed Database
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎮 Computer Graphics Course</h3>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nilab102&repo=Computer-Graphics-Course&theme=radical&hide_border=true&bg_color=0D1117" />
-      <br>
-      <strong>Game Development</strong><br>
-      C++ • iGraphics • Interactive Games
-    </td>
-    <td align="center" width="50%">
-      <h3>🔍 More Projects</h3>
-      <br>
-      <a href="https://github.com/nilab102?tab=repositories">
-        <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br><br>
-      <strong>Explore More</strong><br>
-      Web Apps • AI Projects • Research
-    </td>
-  </tr>
-</table>
 
 ---
 
