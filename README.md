@@ -1,7 +1,7 @@
-# 👋 Hi there, I'm Nabil Rahman Khan
+# Hi , I'm Nabil Rahman Khan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=Senior+AI+Engineer+%7C+ML+Specialist;Python+Expert+%7C+Deep+Learning+Researcher;Building+Intelligent+Systems+Since+2019;2%2C100%2B+GitHub+Contributions+%26+Growing!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=Senior+AI+Engineer+%7C+ML+Specialist;Python+Expert+%7C+Deep+Learning+Researcher;RAG+Systems+%26+Voice+AI+Expert;Leading+Enterprise+AI+Solutions!" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -89,6 +89,34 @@ print(nabil.say_hi())
   <img src="https://skillicons.dev/icons?i=flask,fastapi,linux,firebase" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
+### 🔧 **Specialized AI Tools & APIs**
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graph&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pipecat-4A90E2?style=for-the-badge&logo=cat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_Live_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama_Models-FF6B35?style=for-the-badge&logo=meta&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Qwen2.5-7B/14B-00D4FF?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/BM25_Retriever-FFA500?style=for-the-badge&logo=search&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDuckGo_Search-DE5833?style=for-the-badge&logo=duckduckgo&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/html2text-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Runpod-7C3AED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/LiveKit-FF4B4B?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Serper_API-4CAF50?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ---
@@ -286,13 +314,9 @@ print(nabil.say_hi())
 
 ## 🎓 Educational Background
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Academic+Excellence+%7C+Top+Performer;CGPA%3A+3.697%2F4.00+%7C+Dean's+List;Research+Publications+%7C+IEEE+%26+Springer" alt="Education" />
-</div>
-
 ### 🏛️ **Bachelor of Science in Computer Science & Engineering**
 **Ahsanullah University of Science and Technology** | *Dhaka, Bangladesh*  
-📅 **2019 – 2023** | 🎯 **CGPA: 3.697/4.00** | 🏆 **Dean's List**
+📅 **2019 – 2023** | 🎯 **CGPA: 3.697/4.00**
 
 ### 🏫 **Higher Secondary Certificate (Science)**
 **Dhaka City College** | *Dhaka, Bangladesh*  
@@ -303,7 +327,7 @@ print(nabil.say_hi())
 ## 🌟 Certifications & Test Scores
 
 <div align="center">
-  <h3>🇬🇧 IELTS Academic (February 2024)</h3>
+  <h3>🇬🇧 IELTS Academic</h3>
   <img src="https://img.shields.io/badge/Overall-7.5%2F9.0-28a745?style=for-the-badge&labelColor=343a40" />
   <img src="https://img.shields.io/badge/Listening-8.5%2F9.0-28a745?style=for-the-badge&labelColor=343a40" />
   <img src="https://img.shields.io/badge/Reading-8.0%2F9.0-28a745?style=for-the-badge&labelColor=343a40" />
@@ -354,7 +378,7 @@ while coffee_available and problems_to_solve:
   
   <h2>💫 "Turning data into intelligence, one algorithm at a time"</h2>
   
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nilab102.nilab102&left_color=gray&right_color=brightgreen&left_text=Visitors)
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nilab102.nilab102&left_color=gray&right_color=brightgreen&left_text=Profile%20Views)
   ![Last Commit](https://img.shields.io/github/last-commit/nilab102/nilab102?style=flat-square&color=brightgreen&label=Last%20Updated)
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
