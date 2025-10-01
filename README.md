@@ -137,7 +137,7 @@ print(nabil.say_hi())
 - Agricultural AI innovations
 - Smart farming solutions
 
-**🔬 Research Assistant** @ **Mila - Quebec AI Institute**  
+**🔬 Research Assistant**  
 *November 2024 – April 2025*  
 - Cutting-edge AI research
 - Collaboration with Dr. Riashat Islam
