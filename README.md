@@ -318,7 +318,7 @@ print(nabil.say_hi())
 
 ### 📬 **Get In Touch:**
 
-<a href="https://www.linkedin.com/in/nabil-is-nilab/">
+<a href="https://www.linkedin.com/in/nabilrahmankhan/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:nilab102@gmail.com">
