@@ -122,32 +122,44 @@ print(nabil.say_hi())
 ---
 
 ## 💼 Professional Experience
-
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### 🏢 **Current Positions**
+### 🏢 Current Positions
 
-**🚀 Senior AI Engineer** @ **ESAP AI** *(Saudi Arabia - Remote)*  
-*January 2025 – Present*
-- Enterprise AI solutions development
-- Leading ML model deployment at scale
+**🚀 Senior AI-Ops Engineer** @ **Just Move In** *(Remote – Bournemouth, United Kingdom)*  
+*November 2025 – Present*  
+- Leading AI infrastructure and MLOps at enterprise scale  
+- Designing and maintaining production-grade model deployment & monitoring systems  
 
-**🌱 AI Engineer** @ **AgronoChain** *(Remote)*  
-*November 2024 – Present*  
-- Agricultural AI innovations
-- Smart farming solutions
+**🚀 Senior AI Engineer (Contract)** @ **Consultant LLC** *(Remote)*  
+*October 2025 – Present*  
+- Building high-impact AI solutions for international clients  
+- End-to-end ML pipeline architecture, optimization, and delivery  
 
-**🔬 Research Assistant**  
-*November 2024 – April 2025*  
-- Cutting-edge AI research
-- Collaboration with Dr. Riashat Islam
+### 📈 Previous Roles
 
-### 📈 **Previous Roles**
-- **📰 AI Engineer** @ ChotoNews.com *(Mar 2024 – Present)*
-- **🧠 Research Associate** @ Bangladesh ML Institute *(Mar – Nov 2024)*
+- **⚡ AI Engineer** @ **Empowering Energy** *(Remote – Riyadh, Saudi Arabia)* • *Jan 2025 – Nov 2025*  
+  - Developed AI systems for energy optimization and predictive analytics  
+  - Deployed production-grade models in the energy sector  
+
+- **🌱 AI Engineer** @ **AgronoChain** *(Remote)* • *Nov 2024 – Mar 2025*  
+  - Built smart farming solutions using computer vision and time-series forecasting  
+  - Created crop yield prediction and resource optimization models  
+
+- **🔬 Research Assistant (Part-Time)** @ **Mila – Québec AI Institute** *(under Dr. Riashat Islam)* • *Nov 2024 – Apr 2025*  
+  - Conducted research in reinforcement learning and safe AI  
+  - Co-authored papers and designed experiments  
+
+- **📰 AI Engineer (Part-Time)** @ **ChotoNews.com** *(Remote)* • *Mar 2024 – Dec 2024*  
+  - Built NLP pipelines for automated news summarization and fact-checking  
+  - Implemented real-time content analysis and recommendation systems  
+
+- **🧠 Research Associate** @ **Bangladesh Machine Learning Institute** *(Dhaka, Bangladesh)* • *Mar 2024 – Nov 2024*  
+  - Researched scalable ML algorithms  
+  - Mentored students and led internal AI projects  
 
 ---
-
+*Last updated: November 2025*
 ## 🔥 Featured AI Projects
 
 <div align="center">
